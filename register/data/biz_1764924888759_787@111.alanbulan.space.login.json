@@ -1,0 +1,83 @@
+{
+  "email": "biz_1764924888759_787@111.alanbulan.space",
+  "emailId": "cc64e003-3cc5-46ca-b28a-e9f9ac1ee91c",
+  "authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IldBQS5BVGFocVpzck1vcUN1VHJnUjlvMW15TnN3MTF2X0MyOTREN29rQjdEeFJBaWI4dlBOcUNNbmFJVEJSZkxxa1lrMTl5X1NtSTl5YXFkTVZJa3dSWXkwM09jcmxGaG14bmM5dzNDOUtLMm9lTXJGZjFjTm02cDdSVk4wSVlXRzFWZElBU2JHSkk2aXdaMmFmT2xKNDZpb2stX1FKVFdiWHQyV2p5NWs2TXlNQU8yYnNId3JaVTFvUkg5XzM4X2xBVjJFTjRuR2NTcjdhWVh6TlVKaWpXU1dtLXlVbXcwSlZTS3E1bmtyTDhqNkpvYTFvMEpBdUF6bEhsU285VnZVLUJzcFluUUIwY1l3RDRBZUV4YVVOYlE5TEFwOUJONHFRMjVhWlFJZXU1aERoWVE4THg1ZG1vSE40Q3VQWUU1Sk82ZXRpTG90TkJVV0VPUjBkUExZbi1RekhQWFdBTkdWaGdQUVVEME84ZmRkX3F0Umw4SnpMamtQd2RrU0VWaTRkVFRGN1AyQURZOWV1X1JzSmZNaHB6UFVBZjFndmo4UVFlVFdmR1FGUDN2UHJhMElYektrQlpyb2NnTTZlZFA3V2FSTGxVNkVFTms3MkNUS0NIS3FjeVZyU0lJY0tGZGdTVGVHckM5VVNLQXBmcW93T0tLdl9TRVFYQ3NOdyJ9.eyJpc3MiOiJodHRwczovL2J1c2luZXNzLmdlbWluaS5nb29nbGUiLCJhdWQiOiJodHRwczovL2Jpei1kaXNjb3ZlcnllbmdpbmUuZ29vZ2xlYXBpcy5jb20iLCJzdWIiOiJjc2VzaWR4LzE2NjI3ODczODciLCJpYXQiOjE3NjQ5NDE0NDksImV4cCI6MTc2NDk0MTc0OSwibmJmIjoxNzY0OTQxNDQ5fQ._OUTnQ_BQ-y2zxvhzSWQYcoV7r4mbv3zARy2VPMVMsk",
+  "cookies": [
+    {
+      "name": "_ga_WH2QY8WWF5",
+      "value": "GS2.1.s1764941450$o1$g1$t1764941450$j60$l0$h0",
+      "domain": ".gemini.google",
+      "path": "/",
+      "expires": 1799501450.058711,
+      "size": 59,
+      "httpOnly": false,
+      "secure": false,
+      "session": false,
+      "priority": "Medium",
+      "sameParty": false,
+      "sourceScheme": "Secure"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.2007327002.1764941450",
+      "domain": ".gemini.google",
+      "path": "/",
+      "expires": 1799501450.035703,
+      "size": 30,
+      "httpOnly": false,
+      "secure": false,
+      "session": false,
+      "priority": "Medium",
+      "sameParty": false,
+      "sourceScheme": "Secure"
+    },
+    {
+      "name": "__Host-C_OSES",
+      "value": "COS.AfQtEyBz2higC37y3zIYC2gcUw9q_jphw-ezSOGsX4upzF4vEwceTdtEXrLbF5f3C0QDq5UqRYXwpEoIe-hRHtNI9xbfG8O3m-wEjgrordLky4-7jSf4kHhT2zPuI1CRgnXTp0wz94zrR_5P",
+      "domain": "business.gemini.google",
+      "path": "/",
+      "expires": -1,
+      "size": 161,
+      "httpOnly": true,
+      "secure": true,
+      "session": true,
+      "sameSite": "Strict",
+      "priority": "High",
+      "sameParty": false,
+      "sourceScheme": "Secure"
+    },
+    {
+      "name": "__Secure-C_SES",
+      "value": "CSE.ARsLs01nAKwgehp7EH-lWzAks7LjgNAXqZtCM3ibv2S7p1DWO1hMN9yHNZABqLYW7XMG6YhqpEji1N3p937ZKkD9MU2-RwMAfyET84obNDDEatabQli9Y4QWOpcSMz13nBMrNgkbD42Eay2ShyZIO3s1_F-BXZjQYcQnjJn9uXjIWR36GqXIIBFT1-b0GumfhaDKJYvtcFcZ3CQ_MeD-oy10DKcQbEP5HVkKr0B1P7GcTQlmdLy_0b4kg9-Fli8Ghi3RXqVlHIoNn7dtJd_qZlpQOg0MJfoMHEDfyaGAa_RsTFaOMJuUVPMVTxaqDC4CbCj7bYWfjDPy4h0M5p8VAGUmdJgBryHeNVwfWmMoBw1zE-RQsP5k2rThu8ycIpEfrNu69cT5oM8yszI79-3xQmhrUz1GQQcYpMyeqWLtuJ7sWcg9rlHR0nZuya2hAUi5YDSX6u_3zisHQA09",
+      "domain": ".business.gemini.google",
+      "path": "/",
+      "expires": 1765027842.024874,
+      "size": 482,
+      "httpOnly": true,
+      "secure": true,
+      "session": false,
+      "sameSite": "Strict",
+      "priority": "High",
+      "sameParty": false,
+      "sourceScheme": "Secure"
+    },
+    {
+      "name": "NID",
+      "value": "527=ErxdhArcJtGuPyVfRh1AStnDUC4FfQ1VWhdffk5pGVjTet4i_G-GGVVjMWCNhRHLMwzjpvBoA4_uOjkrN2IYT9y-UfKHx64_cjay2OgloOy8pYHz7qx9-43srarN4th3MoKV2sNQ4yXPeFrCFqq2Zeuq4A7mY3nxQnreYdNDVgSewrXR1cVRTaok4y-ZAfm_gc0OGhM",
+      "domain": ".gemini.google",
+      "path": "/",
+      "expires": 1780752611.051399,
+      "size": 206,
+      "httpOnly": true,
+      "secure": true,
+      "session": false,
+      "priority": "Medium",
+      "sameParty": false,
+      "sourceScheme": "Secure"
+    }
+  ],
+  "configId": "8821b8cc-067d-4d87-9e77-34cbbe5fb7d6",
+  "csesidx": "1662787387",
+  "timestamp": "2025-12-05T13:30:50.119Z",
+  "fullName": "Michael Smith"
+}

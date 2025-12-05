@@ -1,0 +1,83 @@
+{
+  "email": "biz_1764927564722_12@111.alanbulan.space",
+  "emailId": "94f35963-920e-4edd-98b6-47051c11a221",
+  "authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IldBQS5BVGFocVp0Vy1MYVNCTWctblQ4Sk80TVBINDFlZ2xOSWdZTTk5UmRqY05KdlRubDVTcm5Ya3hzZERZNjdyTVF5bTJXbnl4QmpXVDk0TmhKLVc1emVDOFZLTi1fQU1LMWdEa0JBd1NjakVJWEhMU291ZGlWZ0RlTVJ0aVQ3ZE9lb3M1SF9PX29HdEwtUEU3THl5SlY4OHhXdHZMN3FXRWFvQjlBbkdTb2ZjdHljVjdOaWVVWXZ5Q0daamxoMk94dVcwNVgzU2RPMUxRbTUyQzNRbzFxSGpyLXY0OUpHN09ibE1wTVRSWVRjSy1BOU9IbE13YUdHMURSQ3Q4OXRqcTd5ZEFNNTRUZDZJeWwyRDdWc1VUYUhuT2s0Y2hvTExVcmFJaWotWUx1ZF9KN05MYjU5OXcxdklELW8taVd4eExBMjdIYWk1X0pFR0ktakgydUdPZFpMTFNzZnNkWEFaazY3T3NtUUtvQUJYakpYUElwQWFCWW9NdFpOOVRFcURtTTFEWVRnXzl5RVd2QTF5X2RYUU1sVjNxVndHeThQU0YxY2Q4RjQtandUS3NoSnhRd2s4WEZVUkMxYS1MT1lCaWNYTHY3VjZJdHlyMXVra1U1SDVFb3VIcUdmVFVnSDdhajVnSTl1ZVAtSFFvLTFpX1o3N084blJHMEphQSJ9.eyJpc3MiOiJodHRwczovL2J1c2luZXNzLmdlbWluaS5nb29nbGUiLCJhdWQiOiJodHRwczovL2Jpei1kaXNjb3ZlcnllbmdpbmUuZ29vZ2xlYXBpcy5jb20iLCJzdWIiOiJjc2VzaWR4LzM3MjU2ODk3NCIsImlhdCI6MTc2NDk0MTM5OSwiZXhwIjoxNzY0OTQxNjk5LCJuYmYiOjE3NjQ5NDEzOTl9.Gtiacq_miLfoQmohHNXNaaeCrWxhLGBxvSST_ZBfnX4",
+  "cookies": [
+    {
+      "name": "_ga_WH2QY8WWF5",
+      "value": "GS2.1.s1764941399$o1$g1$t1764941399$j60$l0$h0",
+      "domain": ".gemini.google",
+      "path": "/",
+      "expires": 1799501399.824366,
+      "size": 59,
+      "httpOnly": false,
+      "secure": false,
+      "session": false,
+      "priority": "Medium",
+      "sameParty": false,
+      "sourceScheme": "Secure"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.367571335.1764941400",
+      "domain": ".gemini.google",
+      "path": "/",
+      "expires": 1799501399.801473,
+      "size": 29,
+      "httpOnly": false,
+      "secure": false,
+      "session": false,
+      "priority": "Medium",
+      "sameParty": false,
+      "sourceScheme": "Secure"
+    },
+    {
+      "name": "__Host-C_OSES",
+      "value": "COS.AQH81rjUV49eKEaTjqzrmJ9ch5KJNgwvsf1qEP54dJis3IsWbvYs4pAvN3q0J_3ffpIJEvliN_XyAa6jeOcnf6R-2mqOQYO7eFfyXCvLMWPjmdhpw2X8eNcyZM8JbYvW4Tj2lt-6qrUezy53",
+      "domain": "business.gemini.google",
+      "path": "/",
+      "expires": -1,
+      "size": 161,
+      "httpOnly": true,
+      "secure": true,
+      "session": true,
+      "sameSite": "Strict",
+      "priority": "High",
+      "sameParty": false,
+      "sourceScheme": "Secure"
+    },
+    {
+      "name": "__Secure-C_SES",
+      "value": "CSE.ARsLs01LapuLMleRxiSKQFv9FoqKCETGf7kb-vSXJWRmCP2fi8k3N2FfEPEeCPW6qUJRL9-z4dRnCaJSZBbB7i41K0XcVHicW8DuTX391_Qsk9HONR0JXNG1iGMqZIQyP_tksbIPqcxBv8VCP-1lnRQU3LjxEDeaLhnCd7kg87IOYnehRgQUrG23WIkmTtkpVCu8JTCkp3U5cea75P6UHCzBTi8PHOCE4fCYKPQF9_XIVX2yusX1WDOwEkn7vSlVhy-ermP1CKEt3PjA1WDxQQgQIagoYrBe0sFtTNp2NWhjgD5qpH6ekUEwvdp6rgvI2VMyVZu7NnMqsNMfbuFCET3atRrSqwCOnRxtQJV9QdKZKaPIP8BQInl3BZr7hrLKuqYhToCLN7EurKA9ZS55LbmVXSiIGYdXHUAZ5FdYZzJopfqR7p9PnUuEI0Wlc0u4Ft_paS6-g3r3HeSt",
+      "domain": ".business.gemini.google",
+      "path": "/",
+      "expires": 1765027792.274937,
+      "size": 482,
+      "httpOnly": true,
+      "secure": true,
+      "session": false,
+      "sameSite": "Strict",
+      "priority": "High",
+      "sameParty": false,
+      "sourceScheme": "Secure"
+    },
+    {
+      "name": "NID",
+      "value": "527=SnIlzhxkTRAl1EqJ-RwUs7H6-APIW4QTA-0fNclYlRbN4gN8btvq0AD3iGvSSth0MfV0aND96BIRgeaJk3dp3GyMOoft954fokZcv34qfxjvlf3DlrWG-g3zst8e67-XdJw3NplorDa1Xa2HdP-x84pXViDo5fgn_6_b25WW_OewoHI01sqcHIKmGN6FLN8vu9I4GBf4",
+      "domain": ".gemini.google",
+      "path": "/",
+      "expires": 1780752560.467926,
+      "size": 207,
+      "httpOnly": true,
+      "secure": true,
+      "session": false,
+      "priority": "Medium",
+      "sameParty": false,
+      "sourceScheme": "Secure"
+    }
+  ],
+  "configId": "700d4b18-19b7-4292-9a1c-01b00cc47bf7",
+  "csesidx": "372568974",
+  "timestamp": "2025-12-05T13:30:00.047Z",
+  "fullName": "Emily Williams"
+}
